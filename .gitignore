@@ -1,0 +1,13 @@
+*.gem
+.bundle
+.cache/*
+.kitchen/
+vendor/bundle
+vendor/omnibus-bundle
+pkg/*
+kitchen.local.yml
+bin/*
+files/**/cache/
+vendor/cookbooks
+Berksfile.lock
+Gemfile.local
